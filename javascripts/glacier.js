@@ -848,7 +848,7 @@ var trails = [
 	
 		this._div.innerHTML = /*'<h4>Details</h4>' +*/  (props ?
 			'<b>' + props.NAME + '</b><br /> ' + props.DAY 
-			: 'Hover over a campsite')
+			: 'Hover over a campsite or trail segment')
 		;
 	};
 	
@@ -856,7 +856,7 @@ var trails = [
 	
 		this._div.innerHTML = /*'<h4>Details</h4>' + */ (props ?
 			'<b> Trail segment is ' + props.length + ' m' 
-			: 'Hover over a campsite')
+			: 'Hover over a campsite or trail segment')
 		;
 	};
 	
