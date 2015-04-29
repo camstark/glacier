@@ -998,7 +998,25 @@ var trails = [
 		},
 		onEachFeature: onEachFeature,
 	}).addTo(map_object);
-	
+
+	//LEAFLET DRAW
+        var drawnItems = new L.FeatureGroup();
+        map_object.addLayer(drawnItems);
+
+        var drawControl = new L.Control.Draw({
+            draw: {
+				polygon: false,
+				marker: false,
+				rectangle: false,
+				circle: false,
+			},
+			edit: {
+				edit: false,
+				remove: false,
+                featureGroup: drawnItems
+            }
+        });
+        map_object.addControl(drawControl);	
 
 };
 
