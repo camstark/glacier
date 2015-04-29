@@ -1,0 +1,122 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "NAME": "ADAIR", "X_LONG_WGS84": -114.0516, "Y_LAT_WGS84": 48.76755, "X_UTM_Zone12_NAD83": 275775, "Y_UTM_Zone12_NAD83": 5406109 }, "geometry": { "type": "Point", "coordinates": [ -114.0516, 48.76755 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "NAME": "AKOKALA LAKE", "X_LONG_WGS84": -114.20055, "Y_LAT_WGS84": 48.87511, "X_UTM_Zone12_NAD83": 265335, "Y_UTM_Zone12_NAD83": 5418512 }, "geometry": { "type": "Point", "coordinates": [ -114.20055, 48.87511 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "NAME": "ARROW LAKE", "X_LONG_WGS84": -113.88645, "Y_LAT_WGS84": 48.70309, "X_UTM_Zone12_NAD83": 287637, "Y_UTM_Zone12_NAD83": 5398472 }, "geometry": { "type": "Point", "coordinates": [ -113.88645, 48.70309 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "NAME": "ATLANTIC CREEK", "X_LONG_WGS84": -113.45363, "Y_LAT_WGS84": 48.57545, "X_UTM_Zone12_NAD83": 319022, "Y_UTM_Zone12_NAD83": 5383169 }, "geometry": { "type": "Point", "coordinates": [ -113.45363, 48.57545 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "NAME": "BEAVER WOMAN LAKE", "X_LONG_WGS84": -113.57497, "Y_LAT_WGS84": 48.48336, "X_UTM_Zone12_NAD83": 309728, "Y_UTM_Zone12_NAD83": 5373228 }, "geometry": { "type": "Point", "coordinates": [ -113.57497, 48.48336 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "NAME": "BOULDER PASS", "X_LONG_WGS84": -114.10499, "Y_LAT_WGS84": 48.96443, "X_UTM_Zone12_NAD83": 272747, "Y_UTM_Zone12_NAD83": 5428149 }, "geometry": { "type": "Point", "coordinates": [ -114.10499, 48.96443 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "NAME": "BROWN PASS", "X_LONG_WGS84": -114.03802, "Y_LAT_WGS84": 48.95165, "X_UTM_Zone12_NAD83": 277591, "Y_UTM_Zone12_NAD83": 5426530 }, "geometry": { "type": "Point", "coordinates": [ -114.03802, 48.95165 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "NAME": "CAMAS LAKE", "X_LONG_WGS84": -113.88309, "Y_LAT_WGS84": 48.73826, "X_UTM_Zone12_NAD83": 288032, "Y_UTM_Zone12_NAD83": 5402371 }, "geometry": { "type": "Point", "coordinates": [ -113.88309, 48.73826 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "NAME": "COAL CREEK", "X_LONG_WGS84": -113.61282, "Y_LAT_WGS84": 48.41253, "X_UTM_Zone12_NAD83": 306663, "Y_UTM_Zone12_NAD83": 5365451 }, "geometry": { "type": "Point", "coordinates": [ -113.61282, 48.41253 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "NAME": "COBALT LAKE", "X_LONG_WGS84": -113.42498, "Y_LAT_WGS84": 48.43561, "X_UTM_Zone12_NAD83": 320642, "Y_UTM_Zone12_NAD83": 5367559 }, "geometry": { "type": "Point", "coordinates": [ -113.42498, 48.43561 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "NAME": "COSLEY LAKE", "X_LONG_WGS84": -113.75686, "Y_LAT_WGS84": 48.92525, "X_UTM_Zone12_NAD83": 298065, "Y_UTM_Zone12_NAD83": 5422810 }, "geometry": { "type": "Point", "coordinates": [ -113.75686, 48.92525 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "NAME": "CREEKACKER LAKE", "X_LONG_WGS84": -113.64297, "Y_LAT_WGS84": 48.74218, "X_UTM_Zone12_NAD83": 305700, "Y_UTM_Zone12_NAD83": 5402166 }, "geometry": { "type": "Point", "coordinates": [ -113.64297, 48.74218 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "NAME": "FIFTY MOUNTAIN", "X_LONG_WGS84": -113.86149, "Y_LAT_WGS84": 48.8525, "X_UTM_Zone12_NAD83": 290098, "Y_UTM_Zone12_NAD83": 5415008 }, "geometry": { "type": "Point", "coordinates": [ -113.86149, 48.8525 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "NAME": "FLATTOP", "X_LONG_WGS84": -113.8397, "Y_LAT_WGS84": 48.78394, "X_UTM_Zone12_NAD83": 291412, "Y_UTM_Zone12_NAD83": 5407328 }, "geometry": { "type": "Point", "coordinates": [ -113.8397, 48.78394 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "NAME": "FOOT ELIZABETH LAKE", "X_LONG_WGS84": -113.72533, "Y_LAT_WGS84": 48.89184, "X_UTM_Zone12_NAD83": 300241, "Y_UTM_Zone12_NAD83": 5419013 }, "geometry": { "type": "Point", "coordinates": [ -113.72533, 48.89184 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "NAME": "FOOT GLENNS LAKE", "X_LONG_WGS84": -113.77882, "Y_LAT_WGS84": 48.91468, "X_UTM_Zone12_NAD83": 296414, "Y_UTM_Zone12_NAD83": 5421693 }, "geometry": { "type": "Point", "coordinates": [ -113.77882, 48.91468 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "NAME": "FOOT LOGGING LAKE", "X_LONG_WGS84": -114.12847, "Y_LAT_WGS84": 48.74221, "X_UTM_Zone12_NAD83": 270012, "Y_UTM_Zone12_NAD83": 5403522 }, "geometry": { "type": "Point", "coordinates": [ -114.12847, 48.74221 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "NAME": "FOOT RED EAGLE LAKE", "X_LONG_WGS84": -113.50192, "Y_LAT_WGS84": 48.65602, "X_UTM_Zone12_NAD83": 315754, "Y_UTM_Zone12_NAD83": 5392239 }, "geometry": { "type": "Point", "coordinates": [ -113.50192, 48.65602 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "NAME": "GABLE CREEKEEK", "X_LONG_WGS84": -113.71306, "Y_LAT_WGS84": 48.93475, "X_UTM_Zone12_NAD83": 301311, "Y_UTM_Zone12_NAD83": 5423750 }, "geometry": { "type": "Point", "coordinates": [ -113.71306, 48.93475 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "NAME": "GOAT HAUNT SHELTERS", "X_LONG_WGS84": -113.88818, "Y_LAT_WGS84": 48.95936, "X_UTM_Zone12_NAD83": 288592, "Y_UTM_Zone12_NAD83": 5426958 }, "geometry": { "type": "Point", "coordinates": [ -113.88818, 48.95936 ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "NAME": "GRACE LAKE", "X_LONG_WGS84": -114.00279, "Y_LAT_WGS84": 48.78721, "X_UTM_Zone12_NAD83": 279447, "Y_UTM_Zone12_NAD83": 5408151 }, "geometry": { "type": "Point", "coordinates": [ -114.00279, 48.78721 ] } }
+,
+{ "type": "Feature", "id": 22, "properties": { "NAME": "GRANITE PARK", "X_LONG_WGS84": -113.77787, "Y_LAT_WGS84": 48.77166, "X_UTM_Zone12_NAD83": 295903, "Y_UTM_Zone12_NAD83": 5405795 }, "geometry": { "type": "Point", "coordinates": [ -113.77787, 48.77166 ] } }
+,
+{ "type": "Feature", "id": 23, "properties": { "NAME": "GUNSIGHT LAKE", "X_LONG_WGS84": -113.70864, "Y_LAT_WGS84": 48.62711, "X_UTM_Zone12_NAD83": 300418, "Y_UTM_Zone12_NAD83": 5389546 }, "geometry": { "type": "Point", "coordinates": [ -113.70864, 48.62711 ] } }
+,
+{ "type": "Feature", "id": 24, "properties": { "NAME": "HARRISON LAKE", "X_LONG_WGS84": -113.76521, "Y_LAT_WGS84": 48.52368, "X_UTM_Zone12_NAD83": 295833, "Y_UTM_Zone12_NAD83": 5378201 }, "geometry": { "type": "Point", "coordinates": [ -113.76521, 48.52368 ] } }
+,
+{ "type": "Feature", "id": 25, "properties": { "NAME": "HAWKSBILL", "X_LONG_WGS84": -114.01046, "Y_LAT_WGS84": 48.94566, "X_UTM_Zone12_NAD83": 279582, "Y_UTM_Zone12_NAD83": 5425783 }, "geometry": { "type": "Point", "coordinates": [ -114.01046, 48.94566 ] } }
+,
+{ "type": "Feature", "id": 26, "properties": { "NAME": "HEAD BOWMAN LAKE", "X_LONG_WGS84": -114.12067, "Y_LAT_WGS84": 48.90432, "X_UTM_Zone12_NAD83": 271325, "Y_UTM_Zone12_NAD83": 5421515 }, "geometry": { "type": "Point", "coordinates": [ -114.12067, 48.90432 ] } }
+,
+{ "type": "Feature", "id": 27, "properties": { "NAME": "HEAD ELIZABETH LAKE", "X_LONG_WGS84": -113.72714, "Y_LAT_WGS84": 48.87233, "X_UTM_Zone12_NAD83": 300031, "Y_UTM_Zone12_NAD83": 5416849 }, "geometry": { "type": "Point", "coordinates": [ -113.72714, 48.87233 ] } }
+,
+{ "type": "Feature", "id": 28, "properties": { "NAME": "HEAD GLENNS LAKE", "X_LONG_WGS84": -113.80813, "Y_LAT_WGS84": 48.891, "X_UTM_Zone12_NAD83": 294170, "Y_UTM_Zone12_NAD83": 5419141 }, "geometry": { "type": "Point", "coordinates": [ -113.80813, 48.891 ] } }
+,
+{ "type": "Feature", "id": 29, "properties": { "NAME": "HEAD KINTLA LAKE", "X_LONG_WGS84": -114.2531, "Y_LAT_WGS84": 48.97598, "X_UTM_Zone12_NAD83": 261963, "Y_UTM_Zone12_NAD83": 5429886 }, "geometry": { "type": "Point", "coordinates": [ -114.2531, 48.97598 ] } }
+,
+{ "type": "Feature", "id": 30, "properties": { "NAME": "HEAD RED EAGLE LAKE", "X_LONG_WGS84": -113.5102, "Y_LAT_WGS84": 48.64591, "X_UTM_Zone12_NAD83": 315107, "Y_UTM_Zone12_NAD83": 5391135 }, "geometry": { "type": "Point", "coordinates": [ -113.5102, 48.64591 ] } }
+,
+{ "type": "Feature", "id": 31, "properties": { "NAME": "HELEN LAKE", "X_LONG_WGS84": -113.74501, "Y_LAT_WGS84": 48.8402, "X_UTM_Zone12_NAD83": 298592, "Y_UTM_Zone12_NAD83": 5413325 }, "geometry": { "type": "Point", "coordinates": [ -113.74501, 48.8402 ] } }
+,
+{ "type": "Feature", "id": 32, "properties": { "NAME": "HOLE IN WALL", "X_LONG_WGS84": -114.06726, "Y_LAT_WGS84": 48.96593, "X_UTM_Zone12_NAD83": 275515, "Y_UTM_Zone12_NAD83": 5428203 }, "geometry": { "type": "Point", "coordinates": [ -114.06726, 48.96593 ] } }
+,
+{ "type": "Feature", "id": 33, "properties": { "NAME": "KOOTENAI LAKE", "X_LONG_WGS84": -113.90203, "Y_LAT_WGS84": 48.92631, "X_UTM_Zone12_NAD83": 287438, "Y_UTM_Zone12_NAD83": 5423324 }, "geometry": { "type": "Point", "coordinates": [ -113.90203, 48.92631 ] } }
+,
+{ "type": "Feature", "id": 34, "properties": { "NAME": "LAKE ELLEN WILSON", "X_LONG_WGS84": -113.75369, "Y_LAT_WGS84": 48.60516, "X_UTM_Zone12_NAD83": 297010, "Y_UTM_Zone12_NAD83": 5387225 }, "geometry": { "type": "Point", "coordinates": [ -113.75369, 48.60516 ] } }
+,
+{ "type": "Feature", "id": 35, "properties": { "NAME": "LAKE FRANCES", "X_LONG_WGS84": -114.00451, "Y_LAT_WGS84": 48.9407, "X_UTM_Zone12_NAD83": 279996, "Y_UTM_Zone12_NAD83": 5425215 }, "geometry": { "type": "Point", "coordinates": [ -114.00451, 48.9407 ] } }
+,
+{ "type": "Feature", "id": 36, "properties": { "NAME": "LAKE ISABEL", "X_LONG_WGS84": -113.492, "Y_LAT_WGS84": 48.42462, "X_UTM_Zone12_NAD83": 315646, "Y_UTM_Zone12_NAD83": 5366497 }, "geometry": { "type": "Point", "coordinates": [ -113.492, 48.42462 ] } }
+,
+{ "type": "Feature", "id": 37, "properties": { "NAME": "LAKE JANET", "X_LONG_WGS84": -113.95336, "Y_LAT_WGS84": 48.94252, "X_UTM_Zone12_NAD83": 283749, "Y_UTM_Zone12_NAD83": 5425270 }, "geometry": { "type": "Point", "coordinates": [ -113.95336, 48.94252 ] } }
+,
+{ "type": "Feature", "id": 38, "properties": { "NAME": "LINCOLN LAKE", "X_LONG_WGS84": -113.7748, "Y_LAT_WGS84": 48.58926, "X_UTM_Zone12_NAD83": 295390, "Y_UTM_Zone12_NAD83": 5385514 }, "geometry": { "type": "Point", "coordinates": [ -113.7748, 48.58926 ] } }
+,
+{ "type": "Feature", "id": 39, "properties": { "NAME": "LOWER NYACK CREEK", "X_LONG_WGS84": -113.70271, "Y_LAT_WGS84": 48.48868, "X_UTM_Zone12_NAD83": 300311, "Y_UTM_Zone12_NAD83": 5374146 }, "geometry": { "type": "Point", "coordinates": [ -113.70271, 48.48868 ] } }
+,
+{ "type": "Feature", "id": 40, "properties": { "NAME": "LOWER QUARTZ LAKE", "X_LONG_WGS84": -114.17297, "Y_LAT_WGS84": 48.79814, "X_UTM_Zone12_NAD83": 267000, "Y_UTM_Zone12_NAD83": 5409873 }, "geometry": { "type": "Point", "coordinates": [ -114.17297, 48.79814 ] } }
+,
+{ "type": "Feature", "id": 41, "properties": { "NAME": "MANY GLACIER", "X_LONG_WGS84": -113.67589, "Y_LAT_WGS84": 48.79595, "X_UTM_Zone12_NAD83": 303490, "Y_UTM_Zone12_NAD83": 5408227 }, "geometry": { "type": "Point", "coordinates": [ -113.67589, 48.79595 ] } }
+,
+{ "type": "Feature", "id": 42, "properties": { "NAME": "MOKOWANIS JCT", "X_LONG_WGS84": -113.8184, "Y_LAT_WGS84": 48.88937, "X_UTM_Zone12_NAD83": 293410, "Y_UTM_Zone12_NAD83": 5418987 }, "geometry": { "type": "Point", "coordinates": [ -113.8184, 48.88937 ] } }
+,
+{ "type": "Feature", "id": 43, "properties": { "NAME": "MOKOWANIS LAKE", "X_LONG_WGS84": -113.81245, "Y_LAT_WGS84": 48.8779, "X_UTM_Zone12_NAD83": 293799, "Y_UTM_Zone12_NAD83": 5417696 }, "geometry": { "type": "Point", "coordinates": [ -113.81245, 48.8779 ] } }
+,
+{ "type": "Feature", "id": 44, "properties": { "NAME": "MORNING STAR LAKE", "X_LONG_WGS84": -113.45642, "Y_LAT_WGS84": 48.54097, "X_UTM_Zone12_NAD83": 318693, "Y_UTM_Zone12_NAD83": 5379344 }, "geometry": { "type": "Point", "coordinates": [ -113.45642, 48.54097 ] } }
+,
+{ "type": "Feature", "id": 45, "properties": { "NAME": "NO NAME LAKE", "X_LONG_WGS84": -113.4492, "Y_LAT_WGS84": 48.47986, "X_UTM_Zone12_NAD83": 319008, "Y_UTM_Zone12_NAD83": 5372534 }, "geometry": { "type": "Point", "coordinates": [ -113.4492, 48.47986 ] } }
+,
+{ "type": "Feature", "id": 46, "properties": { "NAME": "OLDMAN LAKE", "X_LONG_WGS84": -113.45552, "Y_LAT_WGS84": 48.51282, "X_UTM_Zone12_NAD83": 318659, "Y_UTM_Zone12_NAD83": 5376213 }, "geometry": { "type": "Point", "coordinates": [ -113.45552, 48.51282 ] } }
+,
+{ "type": "Feature", "id": 47, "properties": { "NAME": "OLE CREEK", "X_LONG_WGS84": -113.48324, "Y_LAT_WGS84": 48.30635, "X_UTM_Zone12_NAD83": 315867, "Y_UTM_Zone12_NAD83": 5353331 }, "geometry": { "type": "Point", "coordinates": [ -113.48324, 48.30635 ] } }
+,
+{ "type": "Feature", "id": 48, "properties": { "NAME": "OLE LAKE", "X_LONG_WGS84": -113.38441, "Y_LAT_WGS84": 48.38222, "X_UTM_Zone12_NAD83": 323458, "Y_UTM_Zone12_NAD83": 5361531 }, "geometry": { "type": "Point", "coordinates": [ -113.38441, 48.38222 ] } }
+,
+{ "type": "Feature", "id": 49, "properties": { "NAME": "OTOKOMI LAKE", "X_LONG_WGS84": -113.59485, "Y_LAT_WGS84": 48.71812, "X_UTM_Zone12_NAD83": 309146, "Y_UTM_Zone12_NAD83": 5399371 }, "geometry": { "type": "Point", "coordinates": [ -113.59485, 48.71812 ] } }
+,
+{ "type": "Feature", "id": 50, "properties": { "NAME": "PARK CREEK", "X_LONG_WGS84": -113.54711, "Y_LAT_WGS84": 48.33398, "X_UTM_Zone12_NAD83": 311233, "Y_UTM_Zone12_NAD83": 5356557 }, "geometry": { "type": "Point", "coordinates": [ -113.54711, 48.33398 ] } }
+,
+{ "type": "Feature", "id": 51, "properties": { "NAME": "POIA LAKE", "X_LONG_WGS84": -113.60641, "Y_LAT_WGS84": 48.85001, "X_UTM_Zone12_NAD83": 308797, "Y_UTM_Zone12_NAD83": 5414058 }, "geometry": { "type": "Point", "coordinates": [ -113.60641, 48.85001 ] } }
+,
+{ "type": "Feature", "id": 52, "properties": { "NAME": "QUARTZ LAKE", "X_LONG_WGS84": -114.13665, "Y_LAT_WGS84": 48.82372, "X_UTM_Zone12_NAD83": 269784, "Y_UTM_Zone12_NAD83": 5412605 }, "geometry": { "type": "Point", "coordinates": [ -114.13665, 48.82372 ] } }
+,
+{ "type": "Feature", "id": 53, "properties": { "NAME": "REYNOLDS CREEKEEK", "X_LONG_WGS84": -113.63521, "Y_LAT_WGS84": 48.66685, "X_UTM_Zone12_NAD83": 305981, "Y_UTM_Zone12_NAD83": 5393773 }, "geometry": { "type": "Point", "coordinates": [ -113.63521, 48.66685 ] } }
+,
+{ "type": "Feature", "id": 54, "properties": { "NAME": "ROUND PRAIRIE", "X_LONG_WGS84": -114.36639, "Y_LAT_WGS84": 48.85773, "X_UTM_Zone12_NAD83": 253092, "Y_UTM_Zone12_NAD83": 5417106 }, "geometry": { "type": "Point", "coordinates": [ -114.36639, 48.85773 ] } }
+,
+{ "type": "Feature", "id": 55, "properties": { "NAME": "SLIDE LAKE", "X_LONG_WGS84": -113.61847, "Y_LAT_WGS84": 48.90522, "X_UTM_Zone12_NAD83": 308125, "Y_UTM_Zone12_NAD83": 5420225 }, "geometry": { "type": "Point", "coordinates": [ -113.61847, 48.90522 ] } }
+,
+{ "type": "Feature", "id": 56, "properties": { "NAME": "SNYDER LAKE", "X_LONG_WGS84": -113.80524, "Y_LAT_WGS84": 48.62591, "X_UTM_Zone12_NAD83": 293295, "Y_UTM_Zone12_NAD83": 5389670 }, "geometry": { "type": "Point", "coordinates": [ -113.80524, 48.62591 ] } }
+,
+{ "type": "Feature", "id": 57, "properties": { "NAME": "SPERRY", "X_LONG_WGS84": -113.78605, "Y_LAT_WGS84": 48.60361, "X_UTM_Zone12_NAD83": 294619, "Y_UTM_Zone12_NAD83": 5387140 }, "geometry": { "type": "Point", "coordinates": [ -113.78605, 48.60361 ] } }
+,
+{ "type": "Feature", "id": 58, "properties": { "NAME": "CHIEF MOUNTAIN", "X_LONG_WGS84": -113.659607, "Y_LAT_WGS84": 48.995907, "X_UTM_Zone12_NAD83": null, "Y_UTM_Zone12_NAD83": null }, "geometry": { "type": "Point", "coordinates": [ -113.659607, 48.995907 ] } }
+
+]
+}
